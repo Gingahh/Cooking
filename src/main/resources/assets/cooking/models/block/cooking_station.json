@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "cooking:block/cooking_station_top",
+    "bottom": "cooking:block/cooking_station_bottom",
+    "front": "cooking:block/cooking_station_side",
+    "side":"cooking:block/cooking_station_side"
+  }
+}
